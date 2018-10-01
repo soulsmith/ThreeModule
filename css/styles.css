@@ -1,0 +1,53 @@
+h1 {
+    margin: 0px;
+    font-family: "Trebuchet MS", "sans-serif";
+    color: #3a743a;
+}
+
+div div div p:nth-child(1) {
+    padding-top: 15px;
+    font-family: "Trebuchet MS", "sans-serif";
+    text-align: center;
+    font-size: 2.8rem;
+}
+
+div div div p:nth-child(2) {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    padding: 0 15px 0 0;
+}
+
+.menu-background {
+    background-color: #bbbbbb;
+    padding: 0 15px 44px 15px;
+    margin-bottom: 25px;
+}
+
+.navBox {
+    height: 69px;
+}
+
+.navbarStyle {
+    margin: 30px;
+}
+
+.menuHeading {
+    margin: 25px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.foodTitle {
+    margin: 12px 0 0 0;
+}
+
+.navStyle {
+    margin: 30px;
+}
+
+.navStyleTwo {
+    height: 96px;
+    background-color: #b7b6b6;
+}
